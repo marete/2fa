@@ -1,5 +1,5 @@
-module rsc.io/2fa
+module github.com/marete/2fa
 
-go 1.16
+go 1.19
 
 require github.com/atotto/clipboard v0.1.4
